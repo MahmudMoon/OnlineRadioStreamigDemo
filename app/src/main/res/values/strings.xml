@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlineRadioStreamigDemo</string>
+    <string name="radiounknown">http://stream.radioreklama.bg:80/radio1rock128</string>
+    <string name="fooorti">http://streema.com/radios/play/35793</string>
+    <string name="ekattor">http://103.253.47.173:8000/;stream/1</string>
+    <string name="bangladeshBater">http://ample-zeno-19.radiojar.com/8w0533k6vewtv?rj-ttl=4&amp;rj-token=AAABZtaA5LEW6ssfUd_YRskxMManG4IoTsZcZuh2Q6WzzYh99fl2FA</string>
+</resources>
